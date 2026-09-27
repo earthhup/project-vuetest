@@ -1,5 +1,5 @@
 <template lang="">
-    <div>
+    <div class="container">
 
         <h3>ติดต่อเรา</h3>
         <h2>Teerachai srinonin</h2>
