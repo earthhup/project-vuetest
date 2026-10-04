@@ -1,6 +1,6 @@
 <template>
   <div class="home">
-    <div class="px-4 py-5 my-5 text-center"> <img class="d-block mx-auto mb-4" src="/assets/img/ch.jpg" alt=""
+    <div class="px-4 py-5 my-5 text-center"> <img class="d-block mx-auto mb-4" src="/src/assets/img/ch.jpg" alt=""
         width="72" height="57">
       <h1 class="display-5 fw-bold text-body-emphasis">Centered hero</h1>
       <div class="col-lg-6 mx-auto">
